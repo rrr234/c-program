@@ -1,0 +1,136 @@
+.wrapper{
+    display: flex;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(144, 234, 144);
+    flex-direction: column;
+    border: 2px solid green;
+}
+
+#item1{
+    display: flex;
+    flex: 1;
+    margin: 10px;
+    background-color: rgba(123, 123, 239, 0.977);
+    border: 2px solid blue;
+    flex-direction: row;
+}
+
+#subi1{
+    display: flex;
+    flex: 1;
+    margin: 10px;
+    background-color: rgb(235, 161, 106);
+    border: 2px solid rgb(245, 96, 55);
+}
+
+#subi2{
+    display: flex;
+    flex: 1;
+    margin: 10px;
+    background-color: rgb(235, 161, 106);
+    border: 2px solid rgb(245, 96, 55);
+}
+
+#subsubi1{
+    display: flex;
+    flex: 1;
+    margin: 2px;
+    background-color: rgb(236, 134, 134);
+    border: 2px solid red;
+}
+
+#subsubi2{
+    display: flex;
+    flex: 1;
+    margin: 2px;
+    background-color:  rgb(236, 134, 134);
+    border: 2px solid red;
+}
+
+#subi3{
+    display: flex;
+    flex: 1;
+    margin: 10px;
+    background-color: rgb(235, 161, 106);
+    border: 2px solid rgb(245, 96, 55);
+}
+
+
+#item2{
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    flex-direction: row;
+}
+
+#subitem1{
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    background-color:  rgb(236, 134, 134);
+    border: 2px solid rgb(100, 9, 9);
+}
+
+#subitem2{
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    flex-direction: column;
+}
+
+#box1{
+    display: flex;
+    flex: 2;
+    margin: 2px;
+    background-color:  rgb(236, 134, 134);
+    border: 2px solid rgb(100, 9, 9);
+}
+
+#box2{
+    display: flex;
+    flex: 2;
+    margin: 2px;
+    background-color:  rgb(236, 134, 134);
+    border: 2px solid rgb(100, 9, 9);
+}
+
+#item3{
+    display: flex;
+    flex: 0.8;
+    margin: 10px;
+    background-color: rgba(123, 123, 239, 0.977);
+    border: 2px solid blue;
+}
+
+#subit1{
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    background-color: rgb(130, 168, 221);
+    border: 2px solid rgb(12, 28, 82);
+}
+
+#subit2{
+    display: flex;
+    flex: 1;
+    margin: 5px;
+    background-color: rgb(235, 161, 106);
+    border: 2px solid rgb(245, 96, 55);
+}
+
+#subit3{
+    display: flex;
+    flex: 1;
+    margin: 5px;
+    background-color: rgb(235, 161, 106);
+    border: 2px solid rgb(245, 96, 55);
+}
+
+#subit4{
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    background-color: rgb(130, 168, 221);
+    border: 2px solid rgb(12, 28, 82);
+}
